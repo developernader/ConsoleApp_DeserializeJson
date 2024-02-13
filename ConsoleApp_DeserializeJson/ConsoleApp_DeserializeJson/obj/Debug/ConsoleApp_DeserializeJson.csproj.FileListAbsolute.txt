@@ -1,0 +1,10 @@
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\bin\Debug\ConsoleApp_DeserializeJson.exe.config
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\bin\Debug\ConsoleApp_DeserializeJson.exe
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\bin\Debug\ConsoleApp_DeserializeJson.pdb
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\obj\Debug\ConsoleApp_DeserializeJson.csprojAssemblyReference.cache
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\obj\Debug\ConsoleApp_DeserializeJson.csproj.CoreCompileInputs.cache
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\obj\Debug\ConsoleApp_DeserializeJson.csproj.CopyComplete
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\obj\Debug\ConsoleApp_DeserializeJson.exe
+C:\Users\nader.saoudy\source\repos\ConsoleApp_DeserializeJson\ConsoleApp_DeserializeJson\obj\Debug\ConsoleApp_DeserializeJson.pdb

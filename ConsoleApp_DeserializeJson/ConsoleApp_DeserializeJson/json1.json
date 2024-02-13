@@ -1,0 +1,9 @@
+{
+  "Name": "Ahmed Ali Al Bakr",
+  "Age": 35,
+  "Courses": [ "C#", "Asp.net", "Sql Server" ],
+  "Car": {
+    "Name": "KIA",
+    "Model": 2021
+  }
+}
